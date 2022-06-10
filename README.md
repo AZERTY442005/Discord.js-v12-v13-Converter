@@ -17,6 +17,5 @@ Convert your Discord.js v12 Bot to v13
 - [chalk](https://www.npmjs.com/package/chalk)
 - [inquirer](https://www.npmjs.com/package/inquirer)
 
-
-
+<br/>
 Credits: © 2022 AZERTY44. All rights Reserved | AZERTY#9999
