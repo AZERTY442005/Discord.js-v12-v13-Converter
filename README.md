@@ -21,5 +21,8 @@ Download link: https://nodejs.org/en/download/
 - [chalk](https://www.npmjs.com/package/chalk)
 - [inquirer](https://www.npmjs.com/package/inquirer)
 
+## Support
+[Discord Server](https://discord.gg/WZv9zh5mZJ)
+
 <br/>
 Credits: © 2022 AZERTY44. All rights Reserved | AZERTY#9999
