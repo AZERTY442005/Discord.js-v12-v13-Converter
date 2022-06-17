@@ -2,9 +2,7 @@
 
 Convert your Discord.js v12 Bot to v13
 
-⚠ **Make sure you have Node.js installed on your computer** ⚠
-<br/>
-Download link: https://nodejs.org/en/download/
+⚠ **Make sure you have [Node.js](https://nodejs.org/en/download/) installed on your computer** ⚠
 
 ## ⚙Steps⚙
 - Run Discord.js v12-v13 Converter.bat
