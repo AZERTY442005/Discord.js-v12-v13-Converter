@@ -23,6 +23,7 @@ Download link: https://nodejs.org/en/download/
 
 ## Support
 [Create a new Issue](https://github.com/AZERTY442005/Discord.js-v12-v13-Converter/issues/new)
+<br/>
 [Discord Server](https://discord.gg/WZv9zh5mZJ)
 
 <br/>
