@@ -1,9 +1,19 @@
 {
+  "name": "discord.js-v12-v13-converter",
+  "version": "1.0.0",
+  "description": "Discord.js v12 to v13 Converter",
+  "main": "./Code/index.js",
+  "Author": "AZERTY#9999",
+  "license": "ISC",
   "dependencies": {
     "figlet": "^1.5.2",
     "fs": "^0.0.1-security",
     "inquirer": "^8.2.4",
     "lolcatjs": "^2.4.1",
     "v12-to-v13": "^1.1.0"
-  }
+  },
+  "scripts": {
+      "start": "node index.js"
+  },
+  "keywords": ["Discord.js", "Converter", "Menu"]
 }
