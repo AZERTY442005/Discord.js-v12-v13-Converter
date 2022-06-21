@@ -2,6 +2,8 @@
 
 Convert your Discord.js v12 Bot to v13
 
+⚠ **Make sure you have [Node.js](https://nodejs.org/en/download/) installed on your computer** ⚠
+
 ## ⚙Steps⚙
 - Run Discord.js v12-v13 Converter.bat
 - It will download required modules to run
@@ -16,6 +18,11 @@ Convert your Discord.js v12 Bot to v13
 - [lolcatjs](https://www.npmjs.com/package/lolcatjs)
 - [chalk](https://www.npmjs.com/package/chalk)
 - [inquirer](https://www.npmjs.com/package/inquirer)
+
+## Support
+[Create a new Issue](https://github.com/AZERTY442005/Discord.js-v12-v13-Converter/issues/new)
+<br/>
+[Discord Server](https://discord.gg/WZv9zh5mZJ)
 
 <br/>
 Credits: © 2022 AZERTY44. All rights Reserved | AZERTY#9999
